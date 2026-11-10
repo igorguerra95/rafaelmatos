@@ -42,6 +42,7 @@ concurrency:
 jobs:
   configure:
     name: Configurar Repositórios GitHub Pages
+    if: ${{ secrets.PAGES_AUTOMATION_TOKEN != '' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repositório central
