@@ -1,0 +1,6 @@
+{
+  "name": "Rafael Matos dos Santos - Fisioterapia Especializada",
+  "description": "Fisioterapia clínica e regenerativa, RPG, Pilates e reabilitação biomecânica com o Dr. Rafael Matos dos Santos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
